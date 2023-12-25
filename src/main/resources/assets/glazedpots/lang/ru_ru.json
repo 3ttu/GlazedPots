@@ -1,0 +1,25 @@
+{
+  "block.glazedpots.black_glazed_flower_pot": "Чёрный глазированный цветочный горшок",
+  "block.glazedpots.blue_glazed_flower_pot": "Синий глазированный цветочный горшок",
+  "block.glazedpots.brown_glazed_flower_pot": "Коричневый глазированный цветочный горшок",
+  "block.glazedpots.cyan_glazed_flower_pot": "Бирюзовый глазированный цветочный горшок",
+  "block.glazedpots.gray_glazed_flower_pot": "Серый глазированный цветочный горшок",
+  "block.glazedpots.green_glazed_flower_pot": "Зелёный глазированный цветочный горшок",
+  "block.glazedpots.light_blue_glazed_flower_pot": "Голубой глазированный цветочный горшок",
+  "block.glazedpots.light_gray_glazed_flower_pot": "Светло-серый глазированный цветочный горшок",
+  "block.glazedpots.lime_glazed_flower_pot": "Лаймовый глазированный цветочный горшок",
+  "block.glazedpots.magenta_glazed_flower_pot": "Пурпурный глазированный цветочный горшок",
+  "block.glazedpots.orange_glazed_flower_pot": "Оранжевый глазированный цветочный горшок",
+  "block.glazedpots.pink_glazed_flower_pot": "Розовый глазированный цветочный горшок",
+  "block.glazedpots.purple_glazed_flower_pot": "Фиолетовый глазированный цветочный горшок",
+  "block.glazedpots.red_glazed_flower_pot": "Красный глазированный цветочный горшок",
+  "block.glazedpots.white_glazed_flower_pot": "Белый глазированный цветочный горшок",
+  "block.glazedpots.yellow_glazed_flower_pot": "Жёлтый глазированный цветочный горшок",
+  
+  "itemGroup.glazedpots": "Глазированные цветочные горшки",
+  
+  "advancements.glazedpots.get_pot.description": "Получен глазированный цветочный горшок!",
+  "advancements.glazedpots.get_pot.title": "Симпатичный цаеточный горшок",
+  "advancements.glazedpots.pot_collector.description": "Получены все 16 вариаций глазированных цветочных горшков!",
+  "advancements.glazedpots.pot_collector.title": "Коллекционер цветочных горшков"
+}
